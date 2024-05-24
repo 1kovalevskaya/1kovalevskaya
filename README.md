@@ -12,6 +12,7 @@
 
 |Название проекта/репозитория|Краткое описание проекта|Инструменты/технологии|
 |-|-|-|
+|[industry_graduation_project](https://github.com/1kovalevskaya/Industry_graduation_project/tree/main)|Разработка модели для контроля температуры сплава с целью снижения затрат электроэнергии| Pandas, scikit-learn, matplotlib, seaborn, SHAP, catboost, LGBM|
 |[hr_analytics](https://github.com/1kovalevskaya/hr_analytics)|Предсказание удовлетворенности сотрудников и возможности их ухода|Pandas, numpy, SHAP, scikit-learn, seaborn, matplotlib, statsmodels|
 |[taxi_order](https://github.com/1kovalevskaya/taxi_order)|Предсказание количества заказов такси у аэропорта по данным временного ряда|matplotlib, seaborn, scikit-learn, pandas, statsmodels|
 |[streamchik](https://github.com/1kovalevskaya/streamchik)|Поиск наиболее важных параметров игры, влияющих на ее продажи|pandas, numpy, stats, matplotlib, seaborn|
